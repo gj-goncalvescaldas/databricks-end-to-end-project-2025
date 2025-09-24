@@ -11,8 +11,5 @@ I have previous experience working with Databricks in professional projects, som
 - Implemented an end-to-end **data pipeline** from Bronze to Silver to Gold tables using **Delta Live Tables (DLT)**.
 - Cleaned and transformed data for **claims, policies, customers, telematics, and images**.
 - Created aggregated and curated datasets joining claims, policies, customers, and telematics data.
-- Added **geocoding** capabilities for addresses with a lightweight demo implementation.
-
-### Notes on the Free Edition
 
 This project was developed on the **Databricks Free Edition**, which has some limitations.
